@@ -1,0 +1,16 @@
+# Tareas programadas
+apscheduler==3.10.4
+
+# Base de datos
+sqlalchemy==2.0.23
+psycopg2-binary==2.9.9
+
+# Kafka
+kafka-python==2.0.2
+
+# HTTP cliente
+httpx==0.25.2
+
+# Utilidades
+python-dotenv==1.0.0
+loguru==0.7.2
